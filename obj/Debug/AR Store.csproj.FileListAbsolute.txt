@@ -1,0 +1,14 @@
+D:\Projects\AR Store\obj\Debug\AR Store.csproj.AssemblyReference.cache
+D:\Projects\AR Store\obj\Debug\WinFormsApp1.Form1.resources
+D:\Projects\AR Store\obj\Debug\AR_Store.Properties.Resources.resources
+D:\Projects\AR Store\obj\Debug\AR Store.csproj.GenerateResource.cache
+D:\Projects\AR Store\obj\Debug\AR Store.csproj.CoreCompileInputs.cache
+D:\Projects\AR Store\bin\Debug\AR Store.exe.config
+D:\Projects\AR Store\bin\Debug\AR Store.exe
+D:\Projects\AR Store\bin\Debug\AR Store.pdb
+D:\Projects\AR Store\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\AR Store\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\AR Store\obj\Debug\AR Store.csproj.Up2Date
+D:\Projects\AR Store\obj\Debug\AR Store.exe
+D:\Projects\AR Store\obj\Debug\AR Store.pdb
+D:\Projects\AR Store\obj\Debug\AR Store.exe.config

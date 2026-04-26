@@ -1,0 +1,20 @@
+D:\Projects\AR Store\bin\Release\AR Store.exe.config
+D:\Projects\AR Store\bin\Release\AR Store.exe
+D:\Projects\AR Store\bin\Release\AR Store.pdb
+D:\Projects\AR Store\bin\Release\Newtonsoft.Json.dll
+D:\Projects\AR Store\bin\Release\Newtonsoft.Json.xml
+D:\Projects\AR Store\obj\Release\AR Store.csproj.AssemblyReference.cache
+D:\Projects\AR Store\obj\Release\WinFormsApp1.Form1.resources
+D:\Projects\AR Store\obj\Release\AR_Store.Properties.Resources.resources
+D:\Projects\AR Store\obj\Release\AR Store.csproj.GenerateResource.cache
+D:\Projects\AR Store\obj\Release\AR Store.csproj.CoreCompileInputs.cache
+D:\Projects\AR Store\obj\Release\AR Store.csproj.Up2Date
+D:\Projects\AR Store\obj\Release\AR Store.exe
+D:\Projects\AR Store\obj\Release\AR Store.pdb
+D:\Projects\AR Store\obj\Release\AR Store.exe.config
+D:\Projects\AR Store\bin\Release\Microsoft.Win32.Registry.dll
+D:\Projects\AR Store\bin\Release\System.Security.AccessControl.dll
+D:\Projects\AR Store\bin\Release\System.Security.Principal.Windows.dll
+D:\Projects\AR Store\bin\Release\Microsoft.Win32.Registry.xml
+D:\Projects\AR Store\bin\Release\System.Security.AccessControl.xml
+D:\Projects\AR Store\bin\Release\System.Security.Principal.Windows.xml
